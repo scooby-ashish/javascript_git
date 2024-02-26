@@ -113,3 +113,65 @@
 
 // console.log(email.length) 
 
+// let name1 = 'ashish';
+
+// console.log(name1);
+
+// const dob='1995-08-21'
+// console.log(dob)
+
+// let num = 23.2;
+// console.log(num);
+// console.log(typeof num);
+
+// let num1 = 123123131;
+// console.log(num1);
+// console.log(typeof num1);
+
+// let string1 = 'ashish';
+// console.log(string1)
+// console.log(typeof string1)
+
+// let boolean1 = true;
+// console.log(typeof boolean1)
+// console.log(boolean1);
+
+// let undef;
+// console.log(typeof undef);
+// console.log(typeof(undef))
+// console.log(undef)
+
+// let value=null;
+// console.log(typeof null) //object
+// console.log(value);
+
+// let bint = 10n;
+// console.log(bint);
+// console.log(typeof bint);
+
+// let bint2 = Infinity
+// console.log(bint2)
+
+// console.log(Infinity/0); //Infinity
+// console.log(Number.MAX_VALUE) 
+// console.log(Number.MIN_VALUE)
+// console.log(121/Infinity) // 0
+// console.log(Infinity/Infinity);
+
+// console.log(12/0); // Infinity
+// console.log(12%3); // 0
+// console.log(12%5); // 2
+// x = 15
+// console.log(x++); //15
+// console.log(x) //16
+
+// console.log(x--); //16
+// console.log(x) //15
+
+// console.log(++x); // 16
+// console.log(x); // 16
+
+// console.log(--x); //15
+// console.log(x); // 15
+
+
